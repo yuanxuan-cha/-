@@ -1,0 +1,214 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://picsum.photos/800/400?random=1",
+      "title": "玄幻小说推荐",
+      "link": "/detail/1"
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/800/400?random=2",
+      "title": "都市小说精选",
+      "link": "/detail/2"
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/800/400?random=3",
+      "title": "科幻小说排行",
+      "link": "/detail/3"
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "玄幻", "icon": "fire-o", "count": 1234 },
+    { "id": 2, "name": "都市", "icon": "location-o", "count": 2345 },
+    { "id": 3, "name": "科幻", "icon": "star-o", "count": 890 },
+    { "id": 4, "name": "武侠", "icon": "fire-o", "count": 567 },
+    { "id": 5, "name": "悬疑", "icon": "question-o", "count": 432 },
+    { "id": 6, "name": "言情", "icon": "heart-o", "count": 1876 }
+  ],
+  "novels": [
+    {
+      "id": 1,
+      "title": "斗破苍穹",
+      "author": "天蚕土豆",
+      "cover": "https://picsum.photos/300/400?random=10",
+      "category": "玄幻",
+      "description": "这里是属于斗气的世界，没有花俏艳丽的魔法，有的，仅仅是繁衍到巅峰的斗气！",
+      "type": "hot",
+      "views": 125678,
+      "rating": 9.2,
+      "chapters": 1256,
+      "status": "完结",
+      "updateTime": "2026-05-15"
+    },
+    {
+      "id": 2,
+      "title": "庆余年",
+      "author": "猫腻",
+      "cover": "https://picsum.photos/300/400?random=11",
+      "category": "历史",
+      "description": "积善之家，必有余庆，留余庆，留余庆，忽遇恩人；幸娘亲，幸娘亲，积得阴功。",
+      "type": "hot",
+      "views": 98765,
+      "rating": 9.1,
+      "chapters": 856,
+      "status": "完结",
+      "updateTime": "2026-05-10"
+    },
+    {
+      "id": 3,
+      "title": "三体",
+      "author": "刘慈欣",
+      "cover": "https://picsum.photos/300/400?random=12",
+      "category": "科幻",
+      "description": "地球人类文明和三体文明之间的信息交流、生死搏杀及两个文明在宇宙中的兴衰历程。",
+      "type": "hot",
+      "views": 87654,
+      "rating": 9.5,
+      "chapters": 456,
+      "status": "完结",
+      "updateTime": "2026-05-05"
+    },
+    {
+      "id": 4,
+      "title": "凡人修仙传",
+      "author": "忘语",
+      "cover": "https://picsum.photos/300/400?random=13",
+      "category": "仙侠",
+      "description": "一个普通的山村穷小子，偶然之下，跨入到一个江湖小门派，成了一名记名弟子。",
+      "type": "hot",
+      "views": 156789,
+      "rating": 9.0,
+      "chapters": 2156,
+      "status": "完结",
+      "updateTime": "2026-05-12"
+    },
+    {
+      "id": 5,
+      "title": "赘婿",
+      "author": "愤怒的香蕉",
+      "cover": "https://picsum.photos/300/400?random=14",
+      "category": "历史",
+      "description": "一个受够了勾心斗角、生死拼搏的金融界巨头回到了古代，进入一商贾之家最没地位的赘婿身体。",
+      "type": "hot",
+      "views": 145678,
+      "rating": 8.9,
+      "chapters": 1089,
+      "status": "连载中",
+      "updateTime": "2026-05-18"
+    },
+    {
+      "id": 6,
+      "title": "星辰变",
+      "author": "我吃西红柿",
+      "cover": "https://picsum.photos/300/400?random=15",
+      "category": "玄幻",
+      "description": "一名孩童，天生无法修炼内功。为了得到父亲的重视，这个孩童毅然选择了那条痛苦修炼之路。",
+      "type": "hot",
+      "views": 134567,
+      "rating": 8.8,
+      "chapters": 856,
+      "status": "完结",
+      "updateTime": "2026-05-08"
+    },
+    {
+      "id": 7,
+      "title": "完美世界",
+      "author": "辰东",
+      "cover": "https://picsum.photos/300/400?random=16",
+      "category": "玄幻",
+      "description": "一粒尘可填海，一根草斩尽日月星辰，弹指间天翻地覆。群雄并起，万族林立，诸圣争霸。",
+      "type": "hot",
+      "views": 178901,
+      "rating": 9.3,
+      "chapters": 2078,
+      "status": "完结",
+      "updateTime": "2026-05-14"
+    },
+    {
+      "id": 8,
+      "title": "雪中悍刀行",
+      "author": "烽火戏诸侯",
+      "cover": "https://picsum.photos/300/400?random=17",
+      "category": "武侠",
+      "description": "道门真人飞天入地，千里取人首级；佛家菩萨低眉嗔怒，搬山填海。",
+      "type": "hot",
+      "views": 123456,
+      "rating": 9.4,
+      "chapters": 1024,
+      "status": "完结",
+      "updateTime": "2026-05-11"
+    }
+  ],
+  "ranks": [
+    {
+      "id": 1,
+      "type": "click",
+      "name": "点击榜",
+      "novels": [
+        { "id": 1, "title": "斗破苍穹", "author": "天蚕土豆", "views": 125678 },
+        { "id": 7, "title": "完美世界", "author": "辰东", "views": 178901 },
+        { "id": 4, "title": "凡人修仙传", "author": "忘语", "views": 156789 },
+        { "id": 5, "title": "赘婿", "author": "愤怒的香蕉", "views": 145678 },
+        { "id": 6, "title": "星辰变", "author": "我吃西红柿", "views": 134567 },
+        { "id": 8, "title": "雪中悍刀行", "author": "烽火戏诸侯", "views": 123456 },
+        { "id": 2, "title": "庆余年", "author": "猫腻", "views": 98765 },
+        { "id": 3, "title": "三体", "author": "刘慈欣", "views": 87654 }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "ticket",
+      "name": "月票榜",
+      "novels": [
+        { "id": 7, "title": "完美世界", "author": "辰东", "tickets": 25678 },
+        { "id": 5, "title": "赘婿", "author": "愤怒的香蕉", "tickets": 23456 },
+        { "id": 1, "title": "斗破苍穹", "author": "天蚕土豆", "tickets": 21345 },
+        { "id": 4, "title": "凡人修仙传", "author": "忘语", "tickets": 19876 },
+        { "id": 8, "title": "雪中悍刀行", "author": "烽火戏诸侯", "tickets": 17654 },
+        { "id": 6, "title": "星辰变", "author": "我吃西红柿", "tickets": 15432 }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "recommend",
+      "name": "推荐榜",
+      "novels": [
+        { "id": 8, "title": "雪中悍刀行", "author": "烽火戏诸侯", "recommends": 45678 },
+        { "id": 3, "title": "三体", "author": "刘慈欣", "recommends": 43210 },
+        { "id": 7, "title": "完美世界", "author": "辰东", "recommends": 38765 },
+        { "id": 2, "title": "庆余年", "author": "猫腻", "recommends": 35678 },
+        { "id": 1, "title": "斗破苍穹", "author": "天蚕土豆", "recommends": 32543 },
+        { "id": 4, "title": "凡人修仙传", "author": "忘语", "recommends": 29876 }
+      ]
+    }
+  ],
+  "recommends": [
+    {
+      "id": 1,
+      "type": "editor",
+      "name": "编辑推荐",
+      "cover": "https://picsum.photos/800/300?random=20",
+      "novels": [
+        { "id": 1, "title": "斗破苍穹", "author": "天蚕土豆", "cover": "https://picsum.photos/200/280?random=30" },
+        { "id": 3, "title": "三体", "author": "刘慈欣", "cover": "https://picsum.photos/200/280?random=31" },
+        { "id": 8, "title": "雪中悍刀行", "author": "烽火戏诸侯", "cover": "https://picsum.photos/200/280?random=32" }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "hot",
+      "name": "热门书单",
+      "cover": "https://picsum.photos/800/300?random=21",
+      "novels": [
+        { "id": 7, "title": "完美世界", "author": "辰东", "cover": "https://picsum.photos/200/280?random=33" },
+        { "id": 5, "title": "赘婿", "author": "愤怒的香蕉", "cover": "https://picsum.photos/200/280?random=34" },
+        { "id": 4, "title": "凡人修仙传", "author": "忘语", "cover": "https://picsum.photos/200/280?random=35" }
+      ]
+    }
+  ],
+  "users": [],
+  "login": true,
+  "register": true
+}
